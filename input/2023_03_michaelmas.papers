@@ -31,7 +31,7 @@ Tagliaro, C., Hahn, F., Sepe, R., Aceti, A. and Lindorfer, M., 2023. I still kno
 Wed, 18 Oct 23
 Hertzbleed 2
 https://www.hertzbleed.com/2h2b.pdf
-Wang, Y., Paccagnella, R., Wandke, A., Gang, Z., Garrett-Grossman, G., Fletcher, C.W., Kohlbrenner, D. and Shacham, H., 2023, May. DVFS frequently leaks secrets: Hertzbleed attacks beyond SIKE, cryptography, and CPU-only data. In 2023 IEEE Symposium on Security and Privacy (SP) (pp. 2306-2320). IEEE.
+Wang, Y., Paccagnella, R., Wandke, A., Gang, Z., Garrett-Grossman, G., Fletcher, C.W., Kohlbrenner, D. and Shacham, H., 2023, May. DVFS frequently leaks secrets: Hertzbleed attacks beyond SIKE, cryptography, and CPU-only data. In 2023 IEEE Symposium on Security and Privacy (S&P) (pp. 2306-2320). IEEE.
 
 Wed, 25 Oct 23
 Cryptographic Capability Computing
@@ -41,7 +41,7 @@ LeMay, M., Rakshit, J., Deutsch, S., Durham, D.M., Ghosh, S., Nori, A., Gaur, J.
 Wed, 1 Nov 23
 Flamingo: Multi-Round Single-Server Secure Aggregation with Applications to Private Federated Learning
 https://ieeexplore.ieee.org/abstract/document/10179434
-Ma, Y., Woods, J., Angel, S., Polychroniadou, A. and Rabin, T., 2023, May. Flamingo: Multi-round single-server secure aggregation with applications to private federated learning. In 2023 IEEE Symposium on Security and Privacy (SP) (pp. 477-496). IEEE.
+Ma, Y., Woods, J., Angel, S., Polychroniadou, A. and Rabin, T., 2023, May. Flamingo: Multi-round single-server secure aggregation with applications to private federated learning. In 2023 IEEE Symposium on Security and Privacy (S&P) (pp. 477-496). IEEE.
 
 Wed, 8 Nov 23
 CHERIoT: Complete Memory Safety for Embedded Devices
@@ -51,7 +51,7 @@ Amar, S., Chisnall, D., Chen, T., Filardo, N.W., Laurie, B., Liu, K., Norton, R.
 Wed, 15 Nov 23
 An analysis of pre-installed Android software
 https://ieeexplore.ieee.org/abstract/document/9152633
-Gamba, J., Rashed, M., Razaghpanah, A., Tapiador, J. and Vallina-Rodriguez, N., 2020, May. An analysis of pre-installed android software. In 2020 IEEE symposium on security and privacy (SP) (pp. 1039-1055). IEEE.
+Gamba, J., Rashed, M., Razaghpanah, A., Tapiador, J. and Vallina-Rodriguez, N., 2020, May. An analysis of pre-installed android software. In 2020 IEEE symposium on security and privacy (S&P) (pp. 1039-1055). IEEE.
 
 Wed, 23 Nov 23
 Passive SSH Key Compromise via Lattices
