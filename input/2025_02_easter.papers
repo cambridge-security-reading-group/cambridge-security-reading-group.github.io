@@ -13,7 +13,7 @@ Lauer, S., Gellert, K., Merget, R., Handirk, T. and Schwenk, J., 2019. T0RTT: no
 Wed, 14 May 25
 Flock: A Framework for Deploying On-Demand Distributed Trust
 https://www.usenix.org/system/files/osdi24-kaviani.pdf
-Kaviani, D., Tan, S., Kannan, P.G. and Popa, R.A., 2024. Flock: A Framework for Deploying {On-Demand} Distributed Trust. In 18th USENIX Symposium on Operating Systems Design and Implementation (OSDI 24) (pp. 721-743).
+Kaviani, D., Tan, S., Kannan, P.G. and Popa, R.A., 2024. Flock: A Framework for Deploying On-Demand Distributed Trust. In 18th USENIX Symposium on Operating Systems Design and Implementation (OSDI 24) (pp. 721-743).
 
 Wed, 21 May 25
 Nitriding: A tool kit for building scalable, networked, secure enclaves
