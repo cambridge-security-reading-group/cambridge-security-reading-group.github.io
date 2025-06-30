@@ -1,0 +1,74 @@
+Michaelmas Term 2023
+
+Wed, 6 Sep 23
+Fuzztruction: Using Fault Injection-based Fuzzing to Leverage Implicit Domain Knowledge
+https://www.usenix.org/system/files/usenixsecurity23-bars.pdf
+Bars, N., Schloegel, M., Scharnowski, T., Schiller, N. and Holz, T., 2023. Fuzztruction: using fault injection-based fuzzing to leverage implicit domain knowledge. In 32nd USENIX Security Symposium (USENIX Security 23) (pp. 1847-1864).
+
+Wed, 13 Sep 23
+BRUTEPRINT: Expose Smartphone Fingerprint Authentication to Brute-force Attack
+https://arxiv.org/pdf/2305.10791.pdf
+Chen, Y. and He, Y., 2023. BrutePrint: Expose Smartphone Fingerprint Authentication to Brute-force Attack. arXiv preprint arXiv:2305.10791.
+
+Wed, 20 Sep 23
+skipped
+
+Wed, 27 Sep 23
+Abuse-Resistant Location Tracking: Balancing Privacy and Safety in the Offline Finding Ecosystem
+https://www.usenix.org/system/files/usenixsecurity24-eldridge.pdf
+Eldridge, H., Beck, G., Green, M., Heninger, N. and Jain, A., 2024. Abuse-Resistant Location Tracking: Balancing Privacy and Safety in the Offline Finding Ecosystem. In 33rd USENIX Security Symposium (USENIX Security 24) (pp. 5431-5448).
+
+Wed, 4 Oct 23
+Freaky Leaky SMS: Extracting User Locations by Analyzing SMS Timings
+https://www.usenix.org/system/files/usenixsecurity23-bitsikas.pdf
+Bitsikas, E., Schnitzler, T., Pöpper, C. and Ranganathan, A., 2023. Freaky Leaky {SMS}: Extracting User Locations by Analyzing {SMS} Timings. In 32nd USENIX Security Symposium (USENIX Security 23) (pp. 2151-2168).
+
+Wed, 11 Oct 23
+I Still Know What You Watched Last Sunday: Privacy of the HbbTV Protocol in the European Smart TV Landscape
+https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f102_paper.pdf
+Tagliaro, C., Hahn, F., Sepe, R., Aceti, A. and Lindorfer, M., 2023. I still know what you watched last Sunday: Privacy of the HbbTV protocol in the European smart TV landscape. In 30th Annual Network and Distributed System Security, NDSS 2023.
+
+Wed, 18 Oct 23
+Hertzbleed 2
+https://www.hertzbleed.com/2h2b.pdf
+Wang, Y., Paccagnella, R., Wandke, A., Gang, Z., Garrett-Grossman, G., Fletcher, C.W., Kohlbrenner, D. and Shacham, H., 2023, May. DVFS frequently leaks secrets: Hertzbleed attacks beyond SIKE, cryptography, and CPU-only data. In 2023 IEEE Symposium on Security and Privacy (SP) (pp. 2306-2320). IEEE.
+
+Wed, 25 Oct 23
+Cryptographic Capability Computing
+https://dl.acm.org/doi/10.1145/3466752.3480076
+LeMay, M., Rakshit, J., Deutsch, S., Durham, D.M., Ghosh, S., Nori, A., Gaur, J., Weiler, A., Sultana, S., Grewal, K. and Subramoney, S., 2021, October. Cryptographic capability computing. In MICRO-54: 54th Annual IEEE/ACM International Symposium on Microarchitecture (pp. 253-267).
+
+Wed, 1 Nov 23
+Flamingo: Multi-Round Single-Server Secure Aggregation with Applications to Private Federated Learning
+https://ieeexplore.ieee.org/abstract/document/10179434
+Ma, Y., Woods, J., Angel, S., Polychroniadou, A. and Rabin, T., 2023, May. Flamingo: Multi-round single-server secure aggregation with applications to private federated learning. In 2023 IEEE Symposium on Security and Privacy (SP) (pp. 477-496). IEEE.
+
+Wed, 8 Nov 23
+CHERIoT: Complete Memory Safety for Embedded Devices
+https://cheriot.org/papers/2023-micro-cheriot-uarch.pdf
+Amar, S., Chisnall, D., Chen, T., Filardo, N.W., Laurie, B., Liu, K., Norton, R., Moore, S.W., Tao, Y., Watson, R.N. and Xia, H., 2023, October. CHERIoT: Complete memory safety for embedded devices. In Proceedings of the 56th Annual IEEE/ACM International Symposium on Microarchitecture (pp. 641-653).
+
+Wed, 15 Nov 23
+An analysis of pre-installed Android software
+https://ieeexplore.ieee.org/abstract/document/9152633
+Gamba, J., Rashed, M., Razaghpanah, A., Tapiador, J. and Vallina-Rodriguez, N., 2020, May. An analysis of pre-installed android software. In 2020 IEEE symposium on security and privacy (SP) (pp. 1039-1055). IEEE.
+
+Wed, 23 Nov 23
+Passive SSH Key Compromise via Lattices
+https://dl.acm.org/doi/abs/10.1145/3576915.3616629
+Ryan, K., He, K., Sullivan, G.A. and Heninger, N., 2023, November. Passive SSH key compromise via lattices. In Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security (pp. 2886-2900).
+
+Wed, 30 Nov 23
+How the Great Firewall of China detects and blocks fully encrypted traffic
+https://www.usenix.org/system/files/usenixsecurity23-wu-mingshi.pdf
+Wu, M., Sippe, J., Sivakumar, D., Burg, J., Anderson, P., Wang, X., Bock, K., Houmansadr, A., Levin, D. and Wustrow, E., 2023. How the Great Firewall of China detects and blocks fully encrypted traffic. In 32nd USENIX Security Symposium (USENIX Security 23) (pp. 2653-2670).
+
+Wed, 6 Dec 23
+SoK: Design, vulnerabilities, and security measures of cryptocurrency wallets
+https://arxiv.org/pdf/2307.12874
+Erinle, Y., Kethepalli, Y., Feng, Y. and Xu, J., 2023. Sok: Design, vulnerabilities, and security measures of cryptocurrency wallets. arXiv preprint arXiv:2307.12874.
+
+Wed, 13 Dec 23
+Fin: Practical signature-free asynchronous common subset in constant time
+https://dl.acm.org/doi/abs/10.1145/3576915.3616633
+Duan, S., Wang, X. and Zhang, H., 2023, November. Fin: Practical signature-free asynchronous common subset in constant time. In Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security (pp. 815-829).

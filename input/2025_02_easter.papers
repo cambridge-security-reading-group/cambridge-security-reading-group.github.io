@@ -1,0 +1,51 @@
+Easter Term 2025
+
+Wed, 30 Apr 25
+Janus: Fast Privacy-Preserving Data Provenance For TLS
+https://petsymposium.org/popets/2025/popets-2025-0028.pdf
+Lauinger, J., Ernstberger, J., Finkenzeller, A. and Steinhorst, S., 2025. Janus: Fast Privacy-Preserving Data Provenance For TLS. Proceedings on Privacy Enhancing Technologies.
+
+Wed, 7 May 25
+T0RTT: Non-Interactive Immediate Forward-Secret Single-Pass Circuit Construction
+https://eprint.iacr.org/2019/1433.pdf
+Lauer, S., Gellert, K., Merget, R., Handirk, T. and Schwenk, J., 2019. T0RTT: non-interactive immediate forward-secret single-pass circuit construction. Cryptology ePrint Archive.
+
+Wed, 14 May 25
+Flock: A Framework for Deploying On-Demand Distributed Trust
+https://www.usenix.org/system/files/osdi24-kaviani.pdf
+Kaviani, D., Tan, S., Kannan, P.G. and Popa, R.A., 2024. Flock: A Framework for Deploying {On-Demand} Distributed Trust. In 18th USENIX Symposium on Operating Systems Design and Implementation (OSDI 24) (pp. 721-743).
+
+Wed, 21 May 25
+Nitriding: A tool kit for building scalable, networked, secure enclaves
+https://arxiv.org/pdf/2206.04123
+Winter, P., Giles, R., Schafhuber, M. and Haddadi, H., 2022. Nitriding: A tool kit for building scalable, networked, secure enclaves. arXiv preprint arXiv:2206.04123.
+
+Wed, 28 May 25
+You Have to Ignore the Dangers: User Perceptions of the Security and Privacy Benefits of WhatsApp Mods
+https://ieeexplore.ieee.org/abstract/document/11023356?
+Munyendo, C.W., Owens, K., Strong, F., Wang, S., Aviv, A.J., Kohno, T. and Roesner, F., 2025, May. “You Have to Ignore the Dangers”: User Perceptions of the Security and Privacy Benefits of WhatsApp Mods. In 2025 IEEE Symposium on Security and Privacy (SP) (pp. 4515-4533). IEEE.
+
+Wed, 4 Jun 25
+SoK: "Interoperability vs Security" Arguments: A Technical Framework
+https://arxiv.org/pdf/2502.04538
+Landis, D., Bietti, E. and Park, S., 2025. SoK: "Interoperability vs Security" Arguments: A Technical Framework. arXiv preprint arXiv:2502.04538.
+
+Wed, 11 Jun 25
+Anix: Anonymous Blackout-Resistant Microblogging with Message Endorsing
+https://cs.uwaterloo.ca/~dbarrada/papers/kamali_sp25.pdf
+Kamali, S. and Barradas, D., 2025. Anix: Anonymous Blackout-Resistant Microblogging with Message Endorsing.
+
+Wed, 18 Jun 25
+Sabot: Efficient and Strongly Anonymous Bootstrapping of Communication Channels
+https://eprint.iacr.org/2025/971.pdf
+Coijanovic, C., Hetz, L., Paterson, K.G. and Strufe, T., 2025. Sabot: Efficient and Strongly Anonymous Bootstrapping of Communication Channels. Cryptology ePrint Archive.
+
+Wed, 25 Jun 25
+CoverDrop Implementation Paper
+https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-999.pdf
+Hugenroth, D., Cutler, S., Kendrick, D., Savarese, M., Hunter-Green, Z., McMahon, P., Kalanaki, M., Vasile, D.A., Bejasa-Dimmock, S., Hoyland, L. and Beresford, A.R., 2025. CoverDrop White Paper (No. UCAM-CL-TR-999). University of Cambridge, Computer Laboratory.
+
+Wed, 1 Jul 25
+Breaking and fixing content-defined chunking
+https://eprint.iacr.org/2025/558.pdf
+Truong, K.T., Merz, S.P., Scarlata, M., Günther, F. and Paterson, K.G., 2025. Breaking and fixing content-defined chunking. Cryptology ePrint Archive.

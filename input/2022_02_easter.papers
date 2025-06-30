@@ -1,0 +1,51 @@
+Easter Term 2022
+
+Wed, 27 Apr 22
+A Large-scale Temporal Measurement of Android Malicious Apps: Persistence, Migration, and Lessons Learned
+https://www.usenix.org/system/files/sec22summer_shen.pdf
+Shen, Y., Vervier, P.A. and Stringhini, G., 2022. A large-scale temporal measurement of android malicious apps: Persistence, migration, and lessons learned. In 31st USENIX Security Symposium (USENIX Security 22) (pp. 1167-1184).
+
+Wed, 4 May 22
+Breaking Bridgefy, again: Adopting libsignal is not enough
+https://www.usenix.org/system/files/sec22fall_albrecht.pdf
+Albrecht, M.R., Eikenberg, R. and Paterson, K.G., 2022. Breaking Bridgefy, again: Adopting libsignal is not enough. In 31st USENIX Security Symposium (USENIX Security 22) (pp. 269-286).
+
+Wed, 11 May 22
+SoK: SCT Auditing in Certificate Transparency
+https://arxiv.org/pdf/2203.01661.pdf
+Meiklejohn, S., DeBlasio, J., O'Brien, D., Thompson, C., Yeo, K. and Stark, E., 2022. SoK: SCT auditing in certificate transparency. arXiv preprint arXiv:2203.01661.
+
+Wed, 18 May 22
+Blocked or Broken? Automatically Detecting When Privacy Interventions Break Web Sites
+https://arxiv.org/pdf/2203.03528.pdf
+Smith, M., Snyder, P., Haller, M., Livshits, B., Stefan, D. and Haddadi, H., 2022. Blocked or broken? Automatically detecting when privacy interventions break websites. arXiv preprint arXiv:2203.03528.
+
+Wed, 25 May 22
+Evil Never Sleeps: When Wireless Malware Stays On After Turning Off iPhones
+https://dl.acm.org/doi/pdf/10.1145/3507657.3528547
+Classen, J., Heinrich, A., Reith, R. and Hollick, M., 2022, May. Evil never sleeps: When wireless malware stays on after turning off iPhones. In Proceedings of the 15th ACM Conference on Security and Privacy in Wireless and Mobile Networks (pp. 146-156).
+
+Wed, 1 Jun 22
+Your Echos are Heard: Tracking, Profiling, and Ad Targeting in the Amazon Smart Speaker Ecosystem
+https://arxiv.org/pdf/2204.10920.pdf
+Iqbal, U., Bahrami, P.N., Trimananda, R., Cui, H., Gamero-Garrido, A., Dubois, D., Choffnes, D., Markopoulou, A., Roesner, F. and Shafiq, Z., 2022. Your echos are heard: Tracking, profiling, and ad targeting in the Amazon smart speaker ecosystem. arXiv preprint arXiv:2204.10920, pp.984-997.
+
+Wed, 8 Jun 22
+GhostTouch: Targeted Attacks on Touchscreens without Physical Touch
+https://www.usenix.org/system/files/sec22summer_wang-kai.pdf
+Wang, K., Mitev, R., Yan, C., Ji, X., Sadeghi, A.R. and Xu, W., 2022. {GhostTouch}: Targeted attacks on touchscreens without physical touch. In 31st USENIX Security Symposium (USENIX Security 22) (pp. 1543-1559).
+
+Wed, 15 Jun 22
+Dos and Don'ts of Machine Learning in Computer Security
+https://www.usenix.org/system/files/sec22summer_arp.pdf
+Arp, D., Quiring, E., Pendlebury, F., Warnecke, A., Pierazzi, F., Wressnegger, C., Cavallaro, L. and Rieck, K., 2022. Dos and don'ts of machine learning in computer security. In 31st USENIX Security Symposium (USENIX Security 22) (pp. 3971-3988).
+
+Wed, 22 Jun 22
+Mixnet optimization methods
+https://petsymposium.org/2022/files/papers/issue3/popets-2022-0081.pdf
+Guirat, I.B. and Diaz, C., 2022. Mixnet optimization methods. Proceedings on Privacy Enhancing Technologies.
+
+Wed, 29 Jun 22
+On Enforcing the Digital Immunity of a Large Humanitarian Organization
+https://jovanovic.io/paper/2018/digital-immunity-icrc/digital-immunity-icrc.pdf
+Le Blond, S., Cuevas, A., Troncoso-Pastoriza, J.R., Jovanovic, P., Ford, B. and Hubaux, J.P., 2018, May. On enforcing the digital immunity of a large humanitarian organization. In 2018 IEEE Symposium on Security and Privacy (SP) (pp. 424-440). IEEE.

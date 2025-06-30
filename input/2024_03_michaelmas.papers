@@ -1,0 +1,59 @@
+Michaelmas Term 2024
+
+Wed, 2 Oct 24
+Tor: From the dark web to the future of privacy.
+https://mitpress.mit.edu/9780262548182/tor/
+Collier, B., 2024. Tor: From the dark web to the future of privacy. MIT Press.
+
+Wed, 9 Oct 24
+Non-Transferable Anonymous Tokens by Secret Binding
+https://dl.acm.org/doi/abs/10.1145/3658644.3670338
+Durak, F.B., Marco, L., Talayhan, A. and Vaudenay, S., 2024, December. Non-Transferable Anonymous Tokens by Secret Binding. In Proceedings of the 2024 on ACM SIGSAC Conference on Computer and Communications Security (pp. 2460-2474).
+
+Wed, 16 Oct 24
+Minimizing a Smartphone's TCB for Security-Critical Programs with Exclusively-Used, Physically-Isolated, Statically-Partitioned Hardware
+https://dl.acm.org/doi/abs/10.1145/3581791.3596864
+Yao, Z., Seyed Talebi, S.M., Chen, M., Amiri Sani, A. and Anderson, T., 2023, June. Minimizing a Smartphone's TCB for Security-Critical Programs with Exclusively-Used, Physically-Isolated, Statically-Partitioned Hardware. In Proceedings of the 21st Annual International Conference on Mobile Systems, Applications and Services (pp. 233-246).
+
+Wed, 23 Oct 24
+skipped
+
+Wed, 30 Oct 24
+End-to-End Encrypted Cloud Storage in the Wild: A Broken Ecosystem
+https://brokencloudstorage.info/paper.pdf
+Hofmann, J. and Truong, K.T., 2024, December. End-to-End Encrypted Cloud Storage in the Wild: A Broken Ecosystem. In Proceedings of the 2024 on ACM SIGSAC Conference on Computer and Communications Security (pp. 3988-4001).
+
+Wed, 6 Nov 24
+Sui Lutris: A blockchain combining broadcast and consensus
+https://dl.acm.org/doi/pdf/10.1145/3658644.3670286
+Blackshear, S., Chursin, A., Danezis, G., Kichidis, A., Kokoris-Kogias, L., Li, X., Logan, M., Menon, A., Nowacki, T., Sonnino, A. and Williams, B., 2024, December. Sui lutris: A blockchain combining broadcast and consensus. In Proceedings of the 2024 on ACM SIGSAC Conference on Computer and Communications Security (pp. 2606-2620).
+
+Wed, 13 Nov 24
+Rust for Embedded Systems: Current State, Challenges and Open Problems
+https://arxiv.org/pdf/2311.05063
+Sharma, A., Sharma, S., Torres-Arias, S., & Machiry, A. (2023). Rust for embedded systems: current state, challenges and open problems (extended report). arXiv preprint arXiv:2311.05063.
+
+Wed, 20 Nov 24
+Unmasking the Security and Usability of Password Masking
+https://dl.acm.org/doi/abs/10.1145/3658644.3690333
+Hu, Y., Alroomi, S., Sahin, S. and Li, F., 2024, December. Unmasking the Security and Usability of Password Masking. In Proceedings of the 2024 on ACM SIGSAC Conference on Computer and Communications Security (pp. 4241-4255).
+
+Wed, 28 Nov 24
+Machine learning with confidential computing: a systematization of knowledge
+https://arxiv.org/pdf/2208.10134
+Mo, F., Tarkhani, Z. and Haddadi, H., 2024. Machine learning with confidential computing: A systematization of knowledge. ACM computing surveys, 56(11), pp.1-40.
+
+Wed, 4 Dec 24
+Amigo: Secure Group Mesh Messaging in Realistic Protest Settings
+https://eprint.iacr.org/2024/1872.pdf
+Inyangson, D., Radway, S., Jois, T.M., Fazio, N. and Mickens, J., 2024. Amigo: Secure Group Mesh Messaging in Realistic Protest Settings. Cryptology ePrint Archive.
+
+Wed, 11 Dec 24
+Kintsugi: Decentralized E2EE Key Recovery
+https://martin.kleppmann.com/2025/03/26/kintsugi-spw.html
+Ma, E., Kleppmann, M. 2025. Kintsugi: Decentralized E2EE Key Recovery. To be published in  Security Protocols XXIX.
+
+Wed, 18 Dec 24
+Machine Learning needs Better Randomness Standards: Randomised Smoothing and PRNG-based attacks
+https://www.usenix.org/system/files/usenixsecurity24-dahiya.pdf
+Dahiya, P., Shumailov, I. and Anderson, R., 2024. Machine Learning needs Better Randomness Standards: Randomised Smoothing and {PRNG-based} attacks. In 33rd USENIX Security Symposium (USENIX Security 24) (pp. 3657-3674).

@@ -1,0 +1,47 @@
+Lent Term 2022
+
+Wed, 19 Jan 22
+Alpenhorn: Bootstrapping Secure Communication Without Leaking Metadata
+https://www.usenix.org/system/files/conference/osdi16/osdi16-lazar.pdf
+Lazar, D. and Zeldovich, N., 2016. Alpenhorn: Bootstrapping secure communication without leaking metadata. In 12th USENIX Symposium on Operating Systems Design and Implementation (OSDI 16) (pp. 571-586).
+
+Wed, 26 Jan 22
+Backchannel: A relationship-based digital identity system
+https://www.inkandswitch.com/backchannel/
+Online article.
+
+Wed, 2 Feb 22
+VerLoc: Verifiable Localization in Decentralized Systems
+https://www.usenix.org/system/files/sec22summer_kohls.pdf
+Kohls, K. and Diaz, C., 2022. VerLoc: verifiable localization in decentralized systems. In 31st USENIX Security Symposium (USENIX Security 22) (pp. 2637-2654).
+
+Wed, 9 Feb 22
+Tubes among us: Analog attack on automatic speaker identification
+https://www.usenix.org/system/files/usenixsecurity23-ahmed-shimaa.pdf
+Ahmed, S., Wani, Y., Shamsabadi, A.S., Yaghini, M., Shumailov, I., Papernot, N. and Fawaz, K., 2023. Tubes among us: Analog attack on automatic speaker identification. In 32nd USENIX Security Symposium (USENIX Security 23) (pp. 265-282).
+
+Wed, 16 Feb 22
+skipped
+
+Wed, 23 Feb 22
+Breaking LTE on Layer Two
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8835335
+Rupprecht, D., Kohls, K., Holz, T. and Pöpper, C., 2019, May. Breaking LTE on layer two. In 2019 IEEE Symposium on Security and Privacy (SP) (pp. 1121-1136). IEEE.
+
+Wed, 2 Mar 22
+skipped
+
+Wed, 9 Mar 22
+Trouble Over-The-Air: An Analysis of FOTA Apps in the Android Ecosystem
+https://cs.uwaterloo.ca/~yaafer/teaching/papers/FOTA_analysis.pdf
+Blázquez, E., Pastrana, S., Feal, Á., Gamba, J., Kotzias, P., Vallina-Rodriguez, N. and Tapiador, J., 2021, May. Trouble over-the-air: An analysis of FOTA apps in the android ecosystem. In 2021 IEEE Symposium on Security and Privacy (SP) (pp. 1606-1622). IEEE.
+
+Wed, 16 Mar 22
+Orca: Blocklisting in Sender-Anonymous Messaging
+https://www.usenix.org/system/files/sec22summer_tyagi.pdf
+Tyagi, N., Len, J., Miers, I. and Ristenpart, T., 2022. Orca: Blocklisting in Sender-Anonymous messaging. In 31st USENIX Security Symposium (USENIX Security 22) (pp. 2299-2316).
+
+Wed, 23 Mar 22
+Trust Dies in Darkness: Shedding Light on Samsung's TrustZone Keymaster Design
+https://www.usenix.org/conference/usenixsecurity22/presentation/shakevsky
+Shakevsky, A., Ronen, E. and Wool, A., 2022. Trust dies in darkness: Shedding light on Samsung's TrustZone keymaster design. In 31st USENIX Security Symposium (USENIX Security 22) (pp. 251-268).

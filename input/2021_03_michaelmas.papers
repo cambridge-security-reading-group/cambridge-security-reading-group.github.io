@@ -1,0 +1,51 @@
+Michaelmas Term 2021
+
+Wed, 6 Oct 21
+Weaponizing Middleboxes for TCP Reflected Amplification
+https://www.usenix.org/system/files/sec21-bock.pdf
+Bock, K., Alaraj, A., Fax, Y., Hurley, K., Wustrow, E. and Levin, D., 2021. Weaponizing middleboxes for TCP reflected amplification. In 30th USENIX Security Symposium (USENIX Security 21) (pp. 3345-3361).
+
+Wed, 13 Oct 21
+Encrypted Cloud Photo Storage Using Google Photos
+https://www.cs.columbia.edu/~nieh/pubs/mobisys2021_esp.pdf
+Koh, J.S., Nieh, J. and Bellovin, S.M., 2021, June. Encrypted cloud photo storage using Google Photos. In Proceedings of the 19th Annual International Conference on Mobile Systems, Applications, and Services (pp. 136-149).
+
+Wed, 20 Oct 21
+Towards Private On-Chain Algorithmic Trading
+https://arxiv.org/pdf/2109.11270.pdf
+Kocaoğullar, C., Gervais, A. and Livshits, B., 2021. Towards private on-chain algorithmic trading. arXiv preprint arXiv:2109.11270.
+
+Wed, 27 Oct 21
+Towards More Robust Keyword Spotting for Voice Assistants
+https://www.usenix.org/system/files/sec22-ahmed.pdf
+Ahmed, S., Shumailov, I., Papernot, N. and Fawaz, K., 2022. Towards more robust keyword spotting for voice assistants. In 31st USENIX Security Symposium (USENIX Security 22) (pp. 2655-2672).
+
+Wed, 3 Nov 21
+PrivateDrop: Practical Privacy-Preserving Authentication for Apple AirDrop
+https://www.usenix.org/system/files/sec21fall-heinrich.pdf
+Heinrich A., Hollick M., Schneider T., Stute M., Weinert C., 2021 PrivateDrop: Practical Privacy-Preserving Authentication for Apple AirDrop. In 30th USENIX Security Symposium (USENIX Security 21) (pp. 3577-3594).
+
+Wed, 10 Nov 21
+Bugs in our Pockets: The Risks of Client-Side Scanning
+https://arxiv.org/pdf/2110.07450.pdf
+Abelson, H., Anderson, R., Bellovin, S.M., Benaloh, J., Blaze, M., Callas, J., Diffie, W., Landau, S., Neumann, P.G., Rivest, R.L. and Schiller, J.I., 2024. Bugs in our pockets: the risks of client-side scanning. Journal of Cybersecurity, 10(1)
+
+Wed, 17 Nov 21
+Collective Information Security in Large-Scale Urban Protests: the Case of Hong Kong
+https://www.usenix.org/system/files/sec21-albrecht.pdf
+Albrecht, M.R., Blasco, J., Jensen, R.B. and Mareková, L., 2021. Collective information security in large-scale urban protests: the case of Hong Kong. In 30th USENIX Security Symposium (USENIX Security 21) (pp. 3363-3380).
+
+Wed, 24 Nov 21
+REDQUEEN: Fuzzing with Input-to-State Correspondence
+https://nyx-fuzz.com/papers/redqueen.pdf
+Aschermann, C., Schumilo, S., Blazytko, T., Gawlik, R. and Holz, T., 2019, February. REDQUEEN: Fuzzing with Input-to-State Correspondence. In NDSS (Vol. 19, pp. 1-15).
+
+Wed, 1 Dec 21
+Trojan source: Invisible vulnerabilities
+https://www.usenix.org/system/files/usenixsecurity23-boucher.pdf
+Boucher, N. and Anderson, R., 2023. Trojan source: Invisible vulnerabilities. In 32nd USENIX security symposium (USENIX Security 23) (pp. 6507-6524).
+
+Wed, 8 Dec 21
+LAPD: Hidden Spy Camera Detection using Smartphone Time-of-Flight Sensors
+https://dl.acm.org/doi/pdf/10.1145/3485730.3485941
+Sami, S., Tan, S.R.X., Sun, B. and Han, J., 2021, November. LAPD: Hidden spy camera detection using smartphone time-of-flight sensors. In Proceedings of the 19th ACM Conference on Embedded Networked Sensor Systems (pp. 288-301).

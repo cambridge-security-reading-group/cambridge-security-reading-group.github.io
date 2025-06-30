@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en" data-bs-theme="auto">
+
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>📚 Distributed Systems and Security Reading Group</title>
+    <link href="css/bootstrap.min.css" rel="stylesheet"/>
+    <script src="js/bootstrap.bundle.min.js"></script>
+
+    <script>
+        function syncDarkMode() {
+            const colorMode = window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+            document.querySelector("html").setAttribute("data-bs-theme", colorMode);
+        }
+
+        syncDarkMode()
+        window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', syncDarkMode)
+    </script>
+</head>
+
+<body>
+<div class="container">
+    <div class="pt-4 my-5">
+        <h1 class="display-5 fw-bold text-body-emphasis">📚 Distributed Systems and Security Reading Group</h1>
+        <p class="lead mb-4">
+            The reading group meets weekly on <strong>Wednesday, 10am</strong> during term time and is open to the
+            public.
+            We read both new papers and classics in the field of distributed systems and security.
+            Occasionally, we also discuss pre-prints and critique work-in-progress papers.
+            Papers are shared via the mailing list on Monday morning, giving everyone ample time to read them before the
+            meeting.
+        </p>
+    </div>
+
+    {% for term in terms %}
+    <h2 class="pt-4">{{term.title}}</h2>
+    <table class="table table-striped">
+        <thead>
+        <tr>
+            <th scope="col" style="width: 15%">Date</th>
+            <th scope="col" style="width: 35%">Paper</th>
+            <th scope="col" style="width: 50%">Full Citation</th>
+        </tr>
+        </thead>
+        <tbody>
+        {% for paper in term.papers %}
+        <tr>
+            <td>{{paper.date}}</td>
+            {% if paper.is_skipped %}
+            <td colspan="2" class="text-muted">Skipped or non-public</td>
+            {% else %}
+            <td>
+                <a href="{{paper.url}}">{{paper.title}}</a>
+                {% if paper.badge %}
+                <span class="badge" style="background-color: {{ paper.badge.color }}">{{ paper.badge.text }}</span>
+                {% endif %}
+            </td>
+            <td><small>{{paper.citation}}</small></td>
+            {% endif %}
+        </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+    {% endfor %}
+
+    <h2 class="pt-4">Organisers & Further Information</h2>
+
+    <p>
+        The reading group organiser collect paper suggestions, manages the mailing list, and selects an interesting
+        paper for each week.
+        Until Easter 2021, the reading group was organised by <a href="https://www.cl.cam.ac.uk/~jz448/">Stan Jiexin
+        Zhang</a>.
+        His <a href="https://www.cl.cam.ac.uk/~jz448/reading-group/">reading group archive</a> covers the terms
+        Michaelmas 2017 until Easter 2020.
+        We plan to eventually include that list here as well.
+        Between Michaelmas 2021 and Easter 2025, the reading group was organised by <a
+            href="https://www.danielhugenroth.com/">Daniel Hugenroth</a>.
+        He also created this website.
+        From Michaelmas 2025, the reading group will be organised by <a href="https://www.cst.cam.ac.uk/people/ap2453">Alexandre
+        Pauwels</a>.
+    </p>
+
+    <p>
+        This page is maintained as a <a href="https://github.com/trvedata/cambridge-security">GitHub repository</a>.
+        If you find mistakes or links are broken, please raise a pull request with us.
+        We try to update the link and citation to the published version of the paper whenever possible.
+    </p>
+
+    <p class="text-muted">
+        Last updated: {{ last_updated }}.
+        Total papers: {{ total_papers }}.
+        This page respects the browser dark mode preference.
+    </p>
+</div>
+</body>
+
+</html>

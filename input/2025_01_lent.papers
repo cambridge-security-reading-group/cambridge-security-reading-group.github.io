@@ -1,0 +1,36 @@
+Lent Term 2025
+
+Wed, 29 Jan 25
+BadRAM: Practical Memory Aliasing Attacks on Trusted Execution Environments
+https://badram.eu/badram.pdf
+De Meulemeester, J., Wilke, L., Oswald, D., Eisenbarth, T., Verbauwhede, I. and Van Bulck, J., 2025, May. BadRAM: Practical memory aliasing attacks on trusted execution environments. In 2025 IEEE Symposium on Security and Privacy (SP) (pp. 4117-4135). IEEE.
+
+Wed, 5 Feb 25
+How To Think About End-To-End Encryption and AI: Training, Processing, Disclosure, and Consent
+https://arxiv.org/pdf/2412.20231
+Knodel, M., Fábrega, A., Ferrari, D., Leiken, J., Hou, B.L., Yen, D., de Alfaro, S., Cho, K. and Park, S., 2024. How To Think About End-To-End Encryption and AI: Training, Processing, Disclosure, and Consent. arXiv preprint arXiv:2412.20231.
+
+Wed, 12 Feb 25
+Granola: Low-Overhead Distributed Transaction Coordination
+https://www.usenix.org/system/files/conference/atc12/atc12-final118.pdf
+Cowling, J. and Liskov, B., 2012. Granola:{Low-Overhead} distributed transaction coordination. In 2012 USENIX Annual Technical Conference (USENIX ATC 12) (pp. 223-235).
+
+Wed, 19 Feb 25
+It's TEEtime: A New Architecture Bringing Sovereignty to Smartphones
+https://arxiv.org/pdf/2211.05206
+Groschupp, F., Kuhne, M., Schneider, M., Puddu, I., Shinde, S. and Capkun, S., 2022. It's TEEtime: A New Architecture Bringing Sovereignty to Smartphones. arXiv preprint arXiv:2211.05206.
+
+Wed, 26 Feb 25
+Architectural Neural Backdoors from First Principles
+https://ieeexplore.ieee.org/abstract/document/11023454
+Langford, H., Shumailov, I., Zhao, Y., Mullins, R. and Papernot, N., 2025, May. Architectural neural backdoors from first principles. In 2025 IEEE Symposium on Security and Privacy (SP) (pp. 1657-1675). IEEE.
+
+Wed, 5 Mar 25
+Turning a Bluetooth Device into an Apple AirTag Without Root Privileges
+https://cs.gmu.edu/~zeng/papers/2025-security-nrootgag.pdf
+Chen, J., Ma, X., Luo, L. and Zeng, Q., Tracking You from a Thousand Miles Away! Turning a Bluetooth Device into an Apple AirTag Without Root Privileges.
+
+Wed, 12 Mar 25
+Attestable Builds: Assembling Verifiable Artifacts on Untrusted Machines using Trusted Execution Environments
+https://arxiv.org/pdf/2505.02521
+Hugenroth, D., Lins, M., Mayrhofer, R. and Beresford, A., 2025. Attestable builds: compiling verifiable binaries on untrusted systems using trusted execution environments. arXiv preprint arXiv:2505.02521.
