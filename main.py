@@ -30,8 +30,10 @@ Repositories: Dict[str, Badge] = {
     "USENIX Security": Badge("USENIX Sec", "#ca6510"),
     "Computer and Communications Security": Badge("ACM CCS", "#0a58ca"),
     "Symposium on Security and Privacy": Badge("IEEE S&P", "#6f42c1"),
+    "NDSS": Badge("NDSS", "#0a58ca"),
     "Privacy Enhancing Technologies": Badge("PETS", "#1aa179"),
     "arXiv": Badge("arxiv", "#6c757d"),
+    "Cryptology ePrint": Badge("iacr", "#6c757d"),
 }
 
 
