@@ -7,6 +7,7 @@
     <title>📚 Distributed Systems and Security Reading Group</title>
     <link href="css/bootstrap.min.css" rel="stylesheet"/>
     <script src="js/bootstrap.bundle.min.js"></script>
+    <script defer data-domain="cambridge-security-reading-group.github.io" src="https://plausible.io/js/script.js"></script>
 
     <script>
         function syncDarkMode() {
@@ -47,17 +48,14 @@
         {% for paper in term.papers %}
         <tr>
             <td>{{paper.date}}</td>
-            {% if paper.is_skipped %}
-            <td colspan="2" class="text-muted">Skipped or non-public</td>
-            {% else %}
-            <td>
+            {% if paper.is_skipped %}<td colspan="2" class="text-muted">Skipped or non-public</td>
+            {% else %}<td>
                 <a href="{{paper.url}}">{{paper.title}}</a>
-                {% if paper.badge %}
-                <span class="badge" style="background-color: {{ paper.badge.color }}">{{ paper.badge.text }}</span>
-                {% endif %}
+                {%- if paper.badge %}<span class="badge" style="background-color: {{ paper.badge.color }}">{{ paper.badge.text }}</span>{% endif %}
             </td>
-            <td><small>{{paper.citation}}</small></td>
-            {% endif %}
+            <td>
+                <small>{{paper.citation}}</small>
+            </td>{% endif %}
         </tr>
         {% endfor %}
         </tbody>
@@ -67,18 +65,13 @@
     <h2 class="pt-4">Organisers & Further Information</h2>
 
     <p>
-        The reading group organiser collect paper suggestions, manages the mailing list, and selects an interesting
-        paper for each week.
-        Until Easter 2021, the reading group was organised by <a href="https://www.cl.cam.ac.uk/~jz448/">Stan Jiexin
-        Zhang</a>.
-        His <a href="https://www.cl.cam.ac.uk/~jz448/reading-group/">reading group archive</a> covers the terms
-        Michaelmas 2017 until Easter 2020.
+        The reading group organiser collect paper suggestions, manages the mailing list, and selects an interesting paper for each week.
+        Until Easter 2021, the reading group was organised by <a href="https://www.cl.cam.ac.uk/~jz448/">Stan Jiexin Zhang</a>.
+        His <a href="https://www.cl.cam.ac.uk/~jz448/reading-group/">reading group archive</a> covers the terms Michaelmas 2017 until Easter 2020.
         We plan to eventually include that list here as well.
-        Between Michaelmas 2021 and Easter 2025, the reading group was organised by <a
-            href="https://www.danielhugenroth.com/">Daniel Hugenroth</a>.
+        Between Michaelmas 2021 and Easter 2025, the reading group was organised by <a href="https://www.danielhugenroth.com/">Daniel Hugenroth</a>.
         He also created this website.
-        From Michaelmas 2025, the reading group will be organised by <a href="https://www.cst.cam.ac.uk/people/ap2453">Alexandre
-        Pauwels</a>.
+        From Michaelmas 2025, the reading group will be organised by <a href="https://www.cst.cam.ac.uk/people/ap2453">Alexandre Pauwels</a>.
     </p>
 
     <p>
