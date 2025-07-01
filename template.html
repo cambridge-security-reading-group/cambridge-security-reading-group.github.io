@@ -51,7 +51,7 @@
             {% if paper.is_skipped %}<td colspan="2" class="text-muted">Skipped or non-public</td>
             {% else %}<td>
                 <a href="{{paper.url}}">{{paper.title}}</a>
-                {%- if paper.badge %}<span class="badge" style="background-color: {{ paper.badge.color }}">{{ paper.badge.text }}</span>{% endif %}
+                {% if paper.badge %}<span class="badge" style="background-color: {{ paper.badge.color }}">{{ paper.badge.text }}</span>{% endif %}
             </td>
             <td>
                 <small>{{paper.citation}}</small>
