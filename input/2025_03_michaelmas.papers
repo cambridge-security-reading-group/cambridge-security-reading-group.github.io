@@ -39,3 +39,8 @@ Wed, 29 Oct 25
 Be Aware of What You Let Pass: Demystifying URL-based Authentication Bypass Vulnerability in Java Web Applications
 https://yuanxzhang.github.io/paper/uabscan-ccs25.pdf
 Zhang, Q., Liu, F., Lin, Z., and Zhang, Y., 2025, October. Be Aware of What You Let Pass: Demystifying URL-based Authentication Bypass Vulnerability in Java Web Applications. In Proceedings of the 32nd ACM Conference on Computer and Communications Security (CCS).
+
+Wed, 05 Nov 25
+zkLogin: Privacy-Preserving Blockchain Authentication with Existing Credentials
+https://arxiv.org/abs/2401.11735
+Baldimtsi, F., Chalkias, K. K., Ji, Y., Lindstrøm, J., Maram, D., Riva, B., Roy, A., Sedaghat, M., Wang, J., 2024, October. zkLogin: Privacy-Preserving Blockchain Authentication with Existing Credentials. Proceedings of the 2024 ACM SIGSAC Conference on Computer and Communications Security (CCS '24).
