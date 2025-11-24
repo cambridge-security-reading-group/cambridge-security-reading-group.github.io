@@ -44,3 +44,18 @@ Wed, 05 Nov 25
 zkLogin: Privacy-Preserving Blockchain Authentication with Existing Credentials
 https://arxiv.org/abs/2401.11735
 Baldimtsi, F., Chalkias, K. K., Ji, Y., Lindstrøm, J., Maram, D., Riva, B., Roy, A., Sedaghat, M., Wang, J., 2024, October. zkLogin: Privacy-Preserving Blockchain Authentication with Existing Credentials. Proceedings of the 2024 ACM SIGSAC Conference on Computer and Communications Security (CCS '24).
+
+Wed, 12 Nov 25
+FP-Rowhammer: DRAM-Based Device Fingerprinting
+https://dl.acm.org/doi/pdf/10.1145/3708821.3733880
+Venugopalan, H., Goswami, K., Din, Z. A., Lowe-Power, J., King, S. T., Shafiq, Z., 2025, August. FP-Rowhammer: DRAM-Based Device Fingerprinting. Proceedings of the 20th ACM Asia Conference on Computer and Communications Security (ASIA CCS 25).
+
+Wed, 19 Nov 25
+ChoiceJacking: Compromising Mobile Devices through Malicious Chargers like a Decade ago
+https://www.usenix.org/system/files/usenixsecurity25-draschbacher.pdf
+Draschbacher, F., Maar, L., Oberhuber, M., Mangard, S., 2025, August. ChoiceJacking: Compromising Mobile Devices through Malicious Chargers like a Decade ago. Proceedings of the 34th USENIX Security Symposium.
+
+Wed, 26 Nov 25
+Don’t Look Up: There Are Sensitive Internal Links in the Clear on GEO Satellites
+https://satcom.sysnet.ucsd.edu/docs/dontlookup_ccs25_fullpaper.pdf
+Zhang, W. M., Dai, A., Ryan, K., Levin, D., Heninger, N., Schulman, A., 2025, October. Don’t Look Up: There Are Sensitive Internal Links in the Clear on GEO Satellites. Proceedings of the 2025 ACM SIGSAC Conference on Computer and Communications Security (CCS ’25).
