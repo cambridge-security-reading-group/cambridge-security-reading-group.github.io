@@ -34,6 +34,7 @@ Repositories: Dict[str, Badge] = {
     "Privacy Enhancing Technologies": Badge("PETS", "#1aa179"),
     "arXiv": Badge("arxiv", "#6c757d"),
     "Cryptology ePrint": Badge("iacr", "#6c757d"),
+    "Symposium on Operating Systems Design and Implementation": Badge("OSDI", "#fdb721"),
 }
 
 

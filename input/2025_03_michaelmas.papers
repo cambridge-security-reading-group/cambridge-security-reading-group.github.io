@@ -59,3 +59,13 @@ Wed, 26 Nov 25
 Don’t Look Up: There Are Sensitive Internal Links in the Clear on GEO Satellites
 https://satcom.sysnet.ucsd.edu/docs/dontlookup_ccs25_fullpaper.pdf
 Zhang, W. M., Dai, A., Ryan, K., Levin, D., Heninger, N., Schulman, A., 2025, October. Don’t Look Up: There Are Sensitive Internal Links in the Clear on GEO Satellites. Proceedings of the 2025 ACM SIGSAC Conference on Computer and Communications Security (CCS ’25).
+
+Wed, 03 Dec 25
+Pixnapping: Bringing Pixel Stealing out of the Stone Age
+https://dl.acm.org/doi/pdf/10.1145/3719027.3765093
+Wang,  A., Gopalkrishnan, P., Wang, Y., Fletcher, C. W., Schacham, H., Kohlbrenner, D., Paccagnella, R., 2025, November. Pixnapping: Bringing Pixel Stealing out of the Stone Age. Proceedings of the 2025 ACM SIGSAC Conference on Computer and Communications Security (CCS '25).
+
+Wed, 10 Dec 25
+Transport Layer Obscurity: Circumventing SNI Censorship on the TLS-Layer
+https://ris.uni-paderborn.de/download/59824/59826/TLS_Obscurity.pdf
+Niere, N., Lange, F., Merget, R., Somorovsky, J., 2025, May. Transport Layer Obscurity: Circumventing SNI Censorship on the TLS-Layer. In 2025 IEEE Symposium on Security and Privacy (S&P).
