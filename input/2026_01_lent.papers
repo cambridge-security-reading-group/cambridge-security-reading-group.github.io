@@ -26,6 +26,16 @@ https://www.usenix.org/system/files/usenixsecurity23-chakraborti-wink.pdf
 Chakraborti, A., Suciu, D., Sion, R., August, 2023. Wink: Deniable Secure Messaging. Proceedings of the 32nd USENIX Security Symposium (USENIX Security 23).
 
 Wed, 11 Feb 26
-INVISILINE: Invisible Plausibly-Deniable Storage
-https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10646803
-Pinjala, S. K., Carbunar, B., Chakraborti, A., Sion, R., 2024. INVISILINE: Invisible Plausibly-Deniable Storage. In 2024 IEEE Symposium on Security and Privacy (SP).
+Unveiling Security Vulnerabilities in Git Large File Storage Protocol
+https://nesa.zju.edu.cn/download/sp2025c2-final59.pdf
+Chen, Y., Wang, Q., Yang, Y., Chen, Y., Li, Y., Ji, S., May, 2025. Unveiling Security Vulnerabilities in Git Large File Storage Protocol. In 46th IEEE Symposium on Security and Privacy (S&P 2025).
+
+Wed, 18 Feb 26
+User Perceptions and Attitudes Toward Untraceability in Messaging Platforms
+https://arxiv.org/pdf/2506.11212
+Griggio,  C. F., Nelson, B., Sramek, Z., Askarov, A., 2025, June. User Perceptions and Attitudes Toward Untraceability in Messaging Platforms. arXiv.
+
+Wed, 25 Feb 26
+Zero Knowledge (About) Encryption: A Comparative Security Analysis of Three Cloud-based Password Managers
+https://eprint.iacr.org/2026/058.pdf
+Scarlata, M., Torrisi, G., Backendal, M., Paterson, K. G., 2026, August. Zero Knowledge (About) Encryption: A Comparative Security Analysis of Three Cloud-based Password Managers. Proceedings of the 35th USENIX Security Symposium (USENIX Security 26).
